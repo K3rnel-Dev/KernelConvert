@@ -1,7 +1,7 @@
 # KernelConvert (mp4 to mp3)
 [![Version Stable](https://img.shields.io/badge/version-stable-brightgreen)](https://github.com/K3rnel-Dev/KernelConvert)
 ![Modife-Dev-Name](https://img.shields.io/badge/ModifyRepoDev-K3rnel-yellow)
-[![Language](https://img.shields.io/badge/Language-Python-e4181c.svg?labelColor=000000)](https://twitter.com/tyrrrz/status/1495972128977571848)
+[![Language](https://img.shields.io/badge/Language-Python-e4181c.svg?labelColor=000000)](https://github.com/K3rnel-dev/KernelConvert/)
 <div align="center">
 <img src="https://github.com/K3rnel-Dev/KernelConvert/blob/main/screens/k.png" width='500px' height='700px' alt="Mirai">
 <br><br>
